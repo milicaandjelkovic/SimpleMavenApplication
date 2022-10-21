@@ -12,6 +12,7 @@ public class App
         Point p = new Point();
         Figure f = new Figure();
         JSONArray array = new JSONArray();
+        JSONArray array2 = new JSONArray();
         Point p2 = p;
         Figure f2 = f;
 

@@ -18,6 +18,9 @@ public class App
         Point p3 = p;
         Figure f3 = f;
 
+        Point p4 = p;
+        Figure f4 = f;
+
         System.out.println("Simple Maven App");
     }
 }

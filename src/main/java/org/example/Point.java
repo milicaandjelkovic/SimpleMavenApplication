@@ -17,4 +17,6 @@ public class Point {
                 ", y=" + y +
                 '}';
     }
+
+    public void Info(){}
 }
